@@ -5,6 +5,6 @@ This International Dance Day, an event management company organized an evening o
 
 You have been appointed as a Machine Learning Engineer for this project. Build an image tagging Deep Learning model that can help the company classify these images into eight categories of Indian classical dance.
 
-Dataset
+## Dataset
 
 The dataset consists of 364 images belonging to 8 categories, namely manipuri, bharatanatyam, odissi, kathakali, kathak, sattriya, kuchipudi, and mohiniyattam.
